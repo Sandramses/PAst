@@ -6,6 +6,7 @@ The <i>Pseudomonas aeruginosa</i> serotyper (PAst) is a command-line-tool for fa
 
 PAst is distributed as a Perl script as well as a web service tool hosted by the Center for Genomic Epidemiology at Center for Biological Sequence Analysis DTU: https://cge.cbs.dtu.dk/services/PAst-1.0/
 
+
 USAGE
 
 Program:      PAst (<i>Pseudomonas aeruginosa</i> serotyper)
@@ -22,8 +23,19 @@ Input dir:    Directory containing assembled input genomes in multifasta format 
 
 OSA database: Path to OSA database file (downloadable from Github)
 
+
 SETUP
 
 Download the Perl script and OSA database file. PAst is dependent on the installation of Perl and blastn (blast+: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
 
+
 DESCRIPTION OF OUTPUT FILES
+
+- Result summary with predicted serogroups (serotyping.txt)
+- BLAST reports for each input genome
+- Multifasta file of extracted OSA clusters from each input genome
+- 
+
+CITATION
+
+PAst is currently being prepared for publication, as citation will be available shortly.
