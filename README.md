@@ -32,4 +32,4 @@ Download the Perl script and OSA database file. PAst is dependent on the install
 
 <b>CITATION</b>
 
-PAst is currently being prepared for publication, as citation will be available shortly.
+PAst is currently being prepared for publication, a citation will be available shortly.
