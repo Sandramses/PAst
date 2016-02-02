@@ -8,7 +8,7 @@ PAst is distributed as a Perl script as well as a web service tool hosted by the
 
 USAGE
 
-Program:      PAst (Pseudomonas aeruginosa serotyper)
+Program:      PAst (<i>Pseudomonas aeruginosa</i> serotyper)
 
 Version:      1.0 (using NCBI blast+ 2.2.29)
 
