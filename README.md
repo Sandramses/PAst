@@ -9,14 +9,14 @@ PAst is distributed as a Perl script (for batch analysis of multiple genomes) as
 
 <b>USAGE</b>
 
-Usage:        "./PAserotyper.pl path/to/BLASTbin path/to/output/directory path/to/input/directory path/to/OSAdb"
+Usage:        "./PAst.pl path/to/BLASTbin path/to/output/directory path/to/input/directory path/to/OSAdb"
 
 - BLAST bin:    Path to the bin containing blasts executables (ex. /usr/bin/ncbi-blast-2.2.29+/bin/)
 - Output dir:   Directory where blast reports, OSA multifasta files and result summary (serotyping.txt) are placed
 - Input dir:    Directory containing assembled input genomes in multifasta format (and nothing else)
 - OSA database: Path to OSA database file (downloadable from Github)
 
-To print help message: "./PAserotyper.pl help"
+To print help message: "./PAst.pl help"
 
 
 <b>SETUP</b>
