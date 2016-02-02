@@ -34,7 +34,6 @@ DESCRIPTION OF OUTPUT FILES
 - Result summary with predicted serogroups (serotyping.txt)
 - BLAST reports for each input genome
 - Multifasta file of extracted OSA clusters from each input genome
-- 
 
 CITATION
 
