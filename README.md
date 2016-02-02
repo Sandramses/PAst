@@ -8,14 +8,15 @@ PAst is distributed as a Perl script as well as a web service tool hosted by the
 
 USAGE
 
-Program: PAst (Pseudomonas aeruginosa serotyper)
-Version: 1.0 (using NCBI blast+ 2.2.29)
+Program:      PAst (Pseudomonas aeruginosa serotyper)
 
-Usage:   ./PAserotyper.pl <path/to/BLASTbin> <path/to/output/directory> <path/to/input/directory> <path/to/OSAdb>
+Version:      1.0 (using NCBI blast+ 2.2.29)
 
-BLAST bin: Path to the bin containing blasts executables (ex. /usr/bin/ncbi-blast-2.2.29+/bin/)
-Output dir: Directory where blast reports, OSA multifasta files and result summary (serotyping.txt) are placed
-Input dir: Directory containing assembled input genomes in multifasta format (and nothing else)
+Usage:        ./PAserotyper.pl <path/to/BLASTbin> <path/to/output/directory> <path/to/input/directory> <path/to/OSAdb>
+
+BLAST bin:    Path to the bin containing blasts executables (ex. /usr/bin/ncbi-blast-2.2.29+/bin/)
+Output dir:   Directory where blast reports, OSA multifasta files and result summary (serotyping.txt) are placed
+Input dir:    Directory containing assembled input genomes in multifasta format (and nothing else)
 OSA database: Path to OSA database file (downloadable from Github)
 
 SETUP
