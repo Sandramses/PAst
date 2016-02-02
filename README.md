@@ -9,10 +9,6 @@ PAst is distributed as a Perl script as well as a web service tool hosted by the
 
 <b>USAGE</b>
 
-Program:      PAst (<i>Pseudomonas aeruginosa</i> serotyper)
-
-Version:      1.0 (using NCBI blast+ 2.2.29)
-
 Usage:        ./PAserotyper.pl <path/to/BLASTbin> <path/to/output/directory> <path/to/input/directory> <path/to/OSAdb>
 
 BLAST bin:    Path to the bin containing blasts executables (ex. /usr/bin/ncbi-blast-2.2.29+/bin/)
@@ -26,7 +22,7 @@ OSA database: Path to OSA database file (downloadable from Github)
 
 <b>SETUP</b>
 
-Download the Perl script and OSA database file. PAst is dependent on the installation of Perl and blastn (blast+: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
+Download the Perl script and OSA database file. PAst is dependent on the installation of Perl and blastn (blast+ 2.2.29: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
 
 
 <b>DESCRIPTION OF OUTPUT FILES</b>
