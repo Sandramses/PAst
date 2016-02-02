@@ -4,7 +4,7 @@
 
 The <i>Pseudomonas aeruginosa</i> serotyper (PAst) is a command-line-tool for fast and reliable <i>in silico</i> serotyping of <i>P. aeruginosa</i> isolates, based on whole genome sequence assembly data. 
 
-PAst is distributed as a Perl script as well as a web service tool hosted by the Center for Genomic Epidemiology at Center for Biological Sequence Analysis DTU: https://cge.cbs.dtu.dk/services/PAst-1.0/
+PAst is distributed as a Perl script (for batch analysis of multiple genomes) as well as a web service tool for analysis of single isolates hosted by the Center for Genomic Epidemiology at Center for Biological Sequence Analysis DTU: https://cge.cbs.dtu.dk/services/PAst-1.0/
 
 
 <b>USAGE</b>
