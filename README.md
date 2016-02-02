@@ -9,7 +9,7 @@ PAst is distributed as a Perl script as well as a web service tool hosted by the
 
 <b>USAGE</b>
 
-Usage:        ./PAserotyper.pl <path/to/BLASTbin> <path/to/output/directory> <path/to/input/directory> <path/to/OSAdb>
+Usage:        "./PAserotyper.pl <path/to/BLASTbin> <path/to/output/directory> <path/to/input/directory> <path/to/OSAdb>"
 
 BLAST bin:    Path to the bin containing blasts executables (ex. /usr/bin/ncbi-blast-2.2.29+/bin/)
 
